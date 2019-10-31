@@ -20,7 +20,7 @@ namespace ConsoleApp2
 
             media = (float)suma / n;
 
-            Console.WriteLine("\n Media aritmetica a valorilor introduse este : {0} \n", media);
+            Console.WriteLine("\n Media aritmetica a valorilor introduseee este : {0} \n", media);
         }
     }
 }
